@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Eya, a passionate software developer with a ke
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 🤔 I’m looking for help with improving my DevOps skills.
 - 💬 Ask me about web development, JavaScript, and open-source contributions.
-- 📫 How to reach me: [Email](mailto:eyad@example.com) | [LinkedIn](https://www.linkedin.com/in/eyadahen)
+- 📫 How to reach me: [Email](mailto:eyad@example.com) | [LinkedIn](https://www.linkedin.com/in/eya-dahen-80b04a351/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love hiking and exploring new places.
 
